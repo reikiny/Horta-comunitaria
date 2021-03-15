@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeb7b5329833fb84586e870d2b11adbe, type: 3}
+  m_Name: BatataDoce
+  m_EditorClassIdentifier: 
+  nomeDaPlanta: 3
+  tipoDaPlanta: 1
+  quantidadePossuida: 0
+  tempoParaCrescer: 40
+  ponto: 21
+  preco: 15
+  vidaConsumida: 3
+  descricao: "Raiz tuberculosa original da am\xE9rica do sul e am\xE9rica central.
+    \xC9 a base da alimenta\xE7\xE3o de diversas culturas. Extremamente nutritiva."
+  bestiarioDes: "Pode ser usada em pratos salgados e doces, podendo ser cozida, assada
+    refogada e frita.\r Pode ser usada para alimenta\xE7\xE3o animal. \r\n"
+  cientifico: Ipomea batatas
+  sprite: {fileID: 21300000, guid: 32df10f8da0773f4ca6a7dc2d7ded895, type: 3}
+  plantarSprite: {fileID: 21300000, guid: 8ca771e9ccc46a54284aebef18de4213, type: 3}
+  mudaSprite: {fileID: 21300000, guid: d948c2dbd51689041b7d429da8f103b5, type: 3}
+  crescidaSprite: {fileID: 21300000, guid: ef50c287be739d94d92fc3d843d8d56c, type: 3}
+  lockSprite: {fileID: 21300000, guid: 7071e00edf534654e93384dc918a810e, type: 3}
+  bestiarioSprite: {fileID: 21300000, guid: 4c4aad6c81513114c9c0637e3bb9ecff, type: 3}
+  bestiarioLockSprite: {fileID: 21300000, guid: eeadf95b7b6b50b45a16483ceb0fbe83,
+    type: 3}
+  liberada: 0

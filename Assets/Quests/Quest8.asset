@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e84bf76309b9924fbfff7e06d006463, type: 3}
+  m_Name: Quest8
+  m_EditorClassIdentifier: 
+  Ativo: 0
+  Completada: 0
+  Nome: Dia puxado
+  Descricao: "Fa\xE7a 15 Rota\xE7\xF5es. Plante 10 vezes com a vida verde e colha
+    50 tub\xE9rculos"
+  pontos: 1300
+  itemLiberado: {fileID: 11400000, guid: ae983261a24d55e4ebf6a8cd183c4e70, type: 2}
+  objetivos:
+  - goalType: 3
+    planta: {fileID: 0}
+    requiredAmount: 10
+    currentAmount: 0
+    player: {fileID: 0}
+  - goalType: 4
+    planta: {fileID: 0}
+    requiredAmount: 15
+    currentAmount: 0
+    player: {fileID: 0}
+  - goalType: 2
+    planta: {fileID: 11400000, guid: ef28e431d8be0c14889151e8d3cdccd7, type: 2}
+    requiredAmount: 50
+    currentAmount: 0
+    player: {fileID: 0}
+  dialogo:
+    dialogue:
+      name: Sofia
+      sentences:
+      - "Com todo sucesso que tivemos nos \xFAltimos dias, o n\xFAmero de clientes
+        aumentou muito. "
+      - "Amanh\xE3 v\xE1rias pessoas vir\xE3o retirar seus pedidos, ent\xE3o fique
+        preparado para um dia intenso de trabalho!"
+    dialogueManager: {fileID: 0}

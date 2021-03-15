@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 044139aef529bce4690a6871e44a7859, type: 3}
+    totalSpriteSurfaceArea: 1263642
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1a696490d5b439d42afcdda98152d5e7, type: 3}
+  - {fileID: 21300000, guid: 551591c0f9a26414f95d84d47871c2fe, type: 3}
+  - {fileID: 21300000, guid: 28afb5b1eff96f945b0144f92f6bd507, type: 3}
+  - {fileID: 21300000, guid: da623012894442a4d8449ac5d67854ec, type: 3}
+  - {fileID: 21300000, guid: f3562303bd15ae94eb5434ae73808365, type: 3}
+  - {fileID: 21300000, guid: e7bb3a6360adde24594ea21ea1a18141, type: 3}
+  - {fileID: 21300000, guid: 1c68f17369a27ff47b71a1f728e6cedf, type: 3}
+  - {fileID: 21300000, guid: 638743668ff4f3c40822570126956e18, type: 3}
+  - {fileID: 21300000, guid: 87697f86986cbd7419d44624a0f5bf9a, type: 3}
+  - {fileID: 21300000, guid: feaf3bc68a173194bb1a00b42cfd41ae, type: 3}
+  - {fileID: 21300000, guid: ceed0d278e22001409dfa1f80d9be1ce, type: 3}
+  - {fileID: 21300000, guid: abde7378d8e0dd54d9082ca89d4f3bb5, type: 3}
+  - {fileID: 21300000, guid: 78e7b8985efb5f549a66cb73bead6d20, type: 3}
+  - {fileID: 21300000, guid: 4921bc98cc6399349b90bb3909e1c2e9, type: 3}
+  - {fileID: 21300000, guid: b9450cc848420f34b8e89b94bbbbe68f, type: 3}
+  - {fileID: 21300000, guid: 36333c19d3fa8d84ebbbb4072e77e1d3, type: 3}
+  - {fileID: 21300000, guid: c3345d79e542ae54683e940e789bce63, type: 3}
+  - {fileID: 21300000, guid: 9b084989ef89f9544aacbf4eb4aedbee, type: 3}
+  - {fileID: 21300000, guid: 776d4e5a346c9e947b0a30e068a5e6a3, type: 3}
+  - {fileID: 21300000, guid: 421867bad4832414d9bb1f14505506c2, type: 3}
+  - {fileID: 21300000, guid: 3132ec0b05adacb41bca2d3b9da41dfe, type: 3}
+  - {fileID: 21300000, guid: 38cf0c4b6d978e04eac40f775b8bf023, type: 3}
+  - {fileID: 21300000, guid: 7355bc6b35bd5c74cb9e60f7a6fc8052, type: 3}
+  - {fileID: 21300000, guid: e555e5ab05910e949af33ea7a9924e2d, type: 3}
+  - {fileID: 21300000, guid: 32e77fab24380d44eb0e8338543ba88c, type: 3}
+  - {fileID: 21300000, guid: 1ab6c0bba895b174eb52a1b1a03fb8b3, type: 3}
+  - {fileID: 21300000, guid: dec2a23e4f6fd184092f87d05f747470, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Vida Circle
+  - Placa Loja Principal
+  - ATENCAO FUNDO
+  - botao FERRAMENTAS
+  - speak bubble
+  - Placa Loja Atras
+  - Fundo Acoes
+  - CHAVE
+  - Placa Guia Principal
+  - barra Dinheiro
+  - config button
+  - fundo coracao circle
+  - ATENCAO
+  - fundo plantas
+  - Fundo AcoesBorda
+  - botao arar
+  - vida barra fundo
+  - botao plantar
+  - aviso
+  - PLACA
+  - preguinho
+  - fundo quadro
+  - carta
+  - vida barra
+  - fundo adubo
+  - INTERROGACAO BRANCA
+  - bOTAO aDUBAR
+  m_Tag: UI
+  m_IsVariant: 0

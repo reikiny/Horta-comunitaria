@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Cenario
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 4aef2dbf22a8f4f40a1212da06bf661c, type: 3}
+    totalSpriteSurfaceArea: 56121773
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: fd46a32092d08f24ba65e1a382191968, type: 3}
+  - {fileID: 21300000, guid: 75216460085d6114ba80e44d10e76479, type: 3}
+  - {fileID: 21300000, guid: 28ead7515c9ede94d951ba1315f1873e, type: 3}
+  - {fileID: 21300000, guid: 5a5d2091a13000c4c90b738acbfc1b87, type: 3}
+  - {fileID: 21300000, guid: 8244e7a1f863e364fbb70433cf63d535, type: 3}
+  - {fileID: 21300000, guid: 85bc85b1e5a7651468e24387037b59d0, type: 3}
+  - {fileID: 21300000, guid: 86bbaae1038e31641bddb97d856afed7, type: 3}
+  - {fileID: 21300000, guid: 775eb75235ca30a46a42db55e5cfa8a0, type: 3}
+  - {fileID: 21300000, guid: 054e2e5285a91594880bbbdb7ba797f1, type: 3}
+  - {fileID: 21300000, guid: 143a0182412a79b4fadbfb7d2f7fef59, type: 3}
+  - {fileID: 21300000, guid: a437d58244b721c4083474ca716d7066, type: 3}
+  - {fileID: 21300000, guid: 45313e9294351f240961a242889a13f6, type: 3}
+  - {fileID: 21300000, guid: 188a0f43205c70446893cc46a0f19d4e, type: 3}
+  - {fileID: 21300000, guid: 83300963699ace441819ed701eacded7, type: 3}
+  - {fileID: 21300000, guid: 69dc7c9349572e04c80b0ee5dfd16ecb, type: 3}
+  - {fileID: 21300000, guid: 9c749a94449373e41a7cb942991e9236, type: 3}
+  - {fileID: 21300000, guid: bec8dcf4a2b6cf34283b08b17388ead5, type: 3}
+  - {fileID: 21300000, guid: 37a711c5aec9da845bce680a500d94da, type: 3}
+  - {fileID: 21300000, guid: 9abebd26a487af14f853c1da1de3b187, type: 3}
+  - {fileID: 21300000, guid: c2530f07117a51041b100b886f8ff933, type: 3}
+  - {fileID: 21300000, guid: 7ad9326731f2a894bb5f5cfe0e5fc1ea, type: 3}
+  - {fileID: 21300000, guid: fa019b798ed2597439a5eca9a6d661b7, type: 3}
+  - {fileID: 21300000, guid: 44092ad9aedc63e4d90e655a60b089d7, type: 3}
+  - {fileID: 21300000, guid: 8e7c4f3ad1b8ff6488658b1ea0138e15, type: 3}
+  - {fileID: 21300000, guid: e969878be4cf9a643b4e30c5624f64d1, type: 3}
+  - {fileID: 21300000, guid: 2f72824cbd9533f48846f5e5d51075b9, type: 3}
+  - {fileID: 21300000, guid: 66b2694c6b4232147ada09cf4928e460, type: 3}
+  - {fileID: 21300000, guid: d43e126c254dc3d4a9b05d7ecc7d3902, type: 3}
+  - {fileID: 21300000, guid: b62f801d9e58950449fa14b2a7edc91d, type: 3}
+  - {fileID: 21300000, guid: 97c6cf2d519321b4db8ed2091e0bdb46, type: 3}
+  - {fileID: 21300000, guid: 782b977d330937f49b33d1f7966d816b, type: 3}
+  - {fileID: 21300000, guid: 3bbe8a3fe01dfd540982d176f56444b7, type: 3}
+  - {fileID: 21300000, guid: 21e60c6fa8d803646902f531c0e53805, type: 3}
+  - {fileID: 21300000, guid: 7c83727fd176141459366df8e7965f2b, type: 3}
+  - {fileID: 21300000, guid: f84d38bfedbc049438c444f552afcf76, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - adubo terra esq
+  - terra lateral seca
+  - terra seca dir
+  - tela_principal_layer_3
+  - TesteBG
+  - terra normal meio
+  - terra normal adubo meio
+  - terra normal adubo dir
+  - terra normal lateral
+  - terra normal adubo esq
+  - adubo terra meio
+  - tela_principal_cisterna
+  - terra lateral arada
+  - tela_principal_panc 1
+  - NUVEM 2
+  - adubo terra dir
+  - 'terra normal meio '
+  - tela_principal_layer_2_favela
+  - terra normal esq
+  - tela_principal_layer_1
+  - terra arada dir
+  - terra normal dir
+  - 'NUVEM 3 '
+  - terra seca meio
+  - 'NUVEM 4 '
+  - tela principal SEM TERRAS
+  - terra arada esq
+  - terra arada meio
+  - bananananan
+  - terra seca esq
+  - sist gotejamento
+  - tela_principal_panc 2
+  - 'NUVEM 1 '
+  - TesteBG2
+  - terra meio teste
+  m_Tag: Cenario
+  m_IsVariant: 0

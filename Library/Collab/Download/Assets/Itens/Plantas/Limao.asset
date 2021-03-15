@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeb7b5329833fb84586e870d2b11adbe, type: 3}
+  m_Name: Limao
+  m_EditorClassIdentifier: 
+  nomeDaPlanta: 8
+  tipoDaPlanta: 2
+  quantidadePossuida: 0
+  tempoParaCrescer: 66
+  ponto: 48
+  preco: 32
+  vidaConsumida: 4
+  descricao: "Origin\xE1rio do sudeste da \xC1sia. Possui diversas variedades e hoje
+    \xE9 cultivado em diversos pa\xEDses. "
+  bestiarioDes: "Utilizado de diversas formas em nossa alimenta\xE7\xE3o, ele, al\xE9m
+    de temperar e trazer acidez \xE0s receitas, tamb\xE9m \xE9 uma fonte incr\xEDvel
+    de nutrientes importantes como vitamina C.\r\n"
+  cientifico: Citrus limonum
+  sprite: {fileID: 21300000, guid: b66535e8ab2e3ff4f9d1c54c7cd67629, type: 3}
+  plantarSprite: {fileID: 21300000, guid: 8ca771e9ccc46a54284aebef18de4213, type: 3}
+  mudaSprite: {fileID: 21300000, guid: 5af2d91f98bfc464884b0688123cc111, type: 3}
+  crescidaSprite: {fileID: 21300000, guid: 45fb4e419b9c8c641941304d41dae196, type: 3}
+  lockSprite: {fileID: 21300000, guid: 7071e00edf534654e93384dc918a810e, type: 3}
+  bestiarioSprite: {fileID: 21300000, guid: 8c219ba90f8ef954bac0fe207da8532f, type: 3}
+  bestiarioLockSprite: {fileID: 21300000, guid: eeadf95b7b6b50b45a16483ceb0fbe83,
+    type: 3}
+  liberada: 0

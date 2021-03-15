@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeb7b5329833fb84586e870d2b11adbe, type: 3}
+  m_Name: BatataDoce
+  m_EditorClassIdentifier: 
+  nomeDaPlanta: 3
+  tipoDaPlanta: 1
+  quantidadePossuida: 0
+  tempoParaCrescer: 0
+  ponto: 0
+  preco: 0
+  vidaConsumida: 0
+  descricao: 
+  sprite: {fileID: 21300000, guid: a11f4a2942919db41a1db9940bca9f83, type: 3}
+  plantarSprite: {fileID: 0}
+  crescidaSprite: {fileID: 0}
+  lockSprite: {fileID: 21300000, guid: 2b6ebea90d87645459cd34429556eb45, type: 3}
+  lojaSprite: {fileID: 0}
+  lojaBloqueadaSprite: {fileID: 21300000, guid: 2b6ebea90d87645459cd34429556eb45,
+    type: 3}
+  liberada: 0

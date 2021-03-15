@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e84bf76309b9924fbfff7e06d006463, type: 3}
+  m_Name: Quest4
+  m_EditorClassIdentifier: 
+  Ativo: 0
+  Completada: 0
+  Nome: "Rota\xE7\xE3o de Culturas"
+  Descricao: "6 Rota\xE7\xF5es e Plantar 3 vezes com vida verde"
+  pontos: 400
+  itemLiberado: {fileID: 0}
+  objetivos:
+  - goalType: 4
+    planta: {fileID: 0}
+    requiredAmount: 6
+    currentAmount: 0
+    player: {fileID: 0}
+  - goalType: 3
+    planta: {fileID: 0}
+    requiredAmount: 3
+    currentAmount: 0
+    player: {fileID: 0}
+  dialogo:
+    dialogue:
+      name: Sofia
+      sentences:
+      - 'Que bom te ver aqui de novo '
+      - "Depois da sua ajuda percebemos o quanto est\xE1vamos precisando de mais
+        algu\xE9m aqui "
+      - "Espero que voc\xEA apare\xE7a sempre!"
+      - 'Contatamos o Mercado Municipal e eles mostraram interesse em produtos de
+        pequenos produtores '
+      - "Pediram uma pequena remessa de nossa produ\xE7\xE3o!"
+      - Hora de trabalhar!
+    dialogueManager: {fileID: 0}

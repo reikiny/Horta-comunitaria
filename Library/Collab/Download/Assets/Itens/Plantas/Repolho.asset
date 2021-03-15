@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeb7b5329833fb84586e870d2b11adbe, type: 3}
+  m_Name: Repolho
+  m_EditorClassIdentifier: 
+  nomeDaPlanta: 1
+  tipoDaPlanta: 0
+  quantidadePossuida: 5
+  tempoParaCrescer: 39.619125
+  ponto: 30
+  preco: 13
+  vidaConsumida: 2
+  descricao: 'Uma variedade distinta da couve, um dos vegetais mais utilizados na
+    cozinha. Pode ser consumido cozido ou em saladas. '
+  bestiarioDes: "O repolho pode ser consumido em uma variedade de pratos, incluindo
+    chucrute, kimchi e salada de repolho. Ele ajuda no controle de inflama\xE7\xF5es
+    e na sa\xFAde do cora\xE7\xE3o. "
+  cientifico: 'Brassica oleracea '
+  sprite: {fileID: 21300000, guid: d685a714368995f4d97934352bcdd97e, type: 3}
+  plantarSprite: {fileID: 21300000, guid: 8ca771e9ccc46a54284aebef18de4213, type: 3}
+  mudaSprite: {fileID: 21300000, guid: d7c9897277030634dbe816f8ccadbde1, type: 3}
+  crescidaSprite: {fileID: 21300000, guid: 4c31f6ad34bf473488bc84cbf6f5cc83, type: 3}
+  lockSprite: {fileID: 21300000, guid: 7071e00edf534654e93384dc918a810e, type: 3}
+  bestiarioSprite: {fileID: 21300000, guid: 5d4d731d7b14f07469454eecc3bd6885, type: 3}
+  bestiarioLockSprite: {fileID: 21300000, guid: eeadf95b7b6b50b45a16483ceb0fbe83,
+    type: 3}
+  liberada: 1

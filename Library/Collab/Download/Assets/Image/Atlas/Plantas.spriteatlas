@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Plantas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 0015d8c3b14ddd54089e539c654bc8c2, type: 3}
+    - {fileID: 102900000, guid: 1f3402e6035340f4faad909470d3fb6d, type: 3}
+    - {fileID: 102900000, guid: 80abe82768517fe48a070c928712bce7, type: 3}
+    totalSpriteSurfaceArea: 63440571
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: bd94623024aa7b34997e9a48b4f08447, type: 3}
+  - {fileID: 21300000, guid: 5e802830bb87e794bb95ef12efa91f03, type: 3}
+  - {fileID: 21300000, guid: 3103a960e7e94c046b790195e2237b5d, type: 3}
+  - {fileID: 21300000, guid: 5f921190aff532e499f64a95b5374352, type: 3}
+  - {fileID: 21300000, guid: 2b0c24a0c0de7ba46802d7c247bc6f77, type: 3}
+  - {fileID: 21300000, guid: 45fb4e419b9c8c641941304d41dae196, type: 3}
+  - {fileID: 21300000, guid: b05dae0233f700742817cca5fc3816ad, type: 3}
+  - {fileID: 21300000, guid: e803592203ddf374596c6aaa48ead79d, type: 3}
+  - {fileID: 21300000, guid: d7c9897277030634dbe816f8ccadbde1, type: 3}
+  - {fileID: 21300000, guid: b5d6a492196ae3e4d96d050d4b9639e2, type: 3}
+  - {fileID: 21300000, guid: 5c79805356489e446bcb6d6bf1358ec0, type: 3}
+  - {fileID: 21300000, guid: 9a83e463144368f439580068049bb8cc, type: 3}
+  - {fileID: 21300000, guid: 339612042e262944fa99619fc320f78b, type: 3}
+  - {fileID: 21300000, guid: ddb24d247e1931442845d95e69461e14, type: 3}
+  - {fileID: 21300000, guid: 6ce7df94c8687144aa644428d8b10a7d, type: 3}
+  - {fileID: 21300000, guid: 66ab4eb40d2fcbe49825ad29cc0553a7, type: 3}
+  - {fileID: 21300000, guid: 9a0e0cc4ad0c82243979d18de174cf25, type: 3}
+  - {fileID: 21300000, guid: c56f4ec402902e246a3583265ea04c43, type: 3}
+  - {fileID: 21300000, guid: a3d4680507936b3469242c39542c17f0, type: 3}
+  - {fileID: 21300000, guid: 2a59dd7502201ff458dcf04573db164d, type: 3}
+  - {fileID: 21300000, guid: a92906d5ab86e8240a8a8ea40b306077, type: 3}
+  - {fileID: 21300000, guid: b8907a663e705184eb1175bb350effdb, type: 3}
+  - {fileID: 21300000, guid: ef50c287be739d94d92fc3d843d8d56c, type: 3}
+  - {fileID: 21300000, guid: f154fd873813153488bdd2c3e7074ce7, type: 3}
+  - {fileID: 21300000, guid: d3e166a714b22bd4f9a3e76e70675e29, type: 3}
+  - {fileID: 21300000, guid: e29cb0d74ef2e0c45b5e162224440b00, type: 3}
+  - {fileID: 21300000, guid: 1e6d87a8fcb4c604ba42975b69c308c1, type: 3}
+  - {fileID: 21300000, guid: f947c1c8519363f41a9228ea3c89ad16, type: 3}
+  - {fileID: 21300000, guid: 0679d529b91d8fb40845e35902babfea, type: 3}
+  - {fileID: 21300000, guid: a11f4a2942919db41a1db9940bca9f83, type: 3}
+  - {fileID: 21300000, guid: 0db01679b20127e46908e38ca5bd9950, type: 3}
+  - {fileID: 21300000, guid: 66959f8989c0ddb4a89b75b30ea5f7ec, type: 3}
+  - {fileID: 21300000, guid: 2b6ebea90d87645459cd34429556eb45, type: 3}
+  - {fileID: 21300000, guid: ad7d33d98011ed941b4356345872063c, type: 3}
+  - {fileID: 21300000, guid: 8ca771e9ccc46a54284aebef18de4213, type: 3}
+  - {fileID: 21300000, guid: 4133154a08039c340a574bf6bcd0acca, type: 3}
+  - {fileID: 21300000, guid: d2bed46aac56273468813d8aeda37caf, type: 3}
+  - {fileID: 21300000, guid: 2dd0397a4e73b09449e85802b15cc2da, type: 3}
+  - {fileID: 21300000, guid: 2436611b10bc37f47a8be8c65b61db53, type: 3}
+  - {fileID: 21300000, guid: c2487b2be8575bc4daffbbe7da3c5b0d, type: 3}
+  - {fileID: 21300000, guid: d851383b17ca70d42811ee1d6e94aa62, type: 3}
+  - {fileID: 21300000, guid: e55cab9bc41da6e4fbbf0fe7c0d7f411, type: 3}
+  - {fileID: 21300000, guid: 3529f7cbc24a5354099b19018c7aaa54, type: 3}
+  - {fileID: 21300000, guid: b56662db6b56d2048b667845530e2dcc, type: 3}
+  - {fileID: 21300000, guid: d948c2dbd51689041b7d429da8f103b5, type: 3}
+  - {fileID: 21300000, guid: 477bd60c7593ab447b7c480bcfc87050, type: 3}
+  - {fileID: 21300000, guid: 8bf5648c9bf32e84ca03f0652feb61b7, type: 3}
+  - {fileID: 21300000, guid: a217b1ac551dff943a2b87345769810a, type: 3}
+  - {fileID: 21300000, guid: 577d7accf4bb33747bbaa1b0505f75c3, type: 3}
+  - {fileID: 21300000, guid: 23e1030da73378647b78edaafbb063ac, type: 3}
+  - {fileID: 21300000, guid: 4c31f6ad34bf473488bc84cbf6f5cc83, type: 3}
+  - {fileID: 21300000, guid: 98c43dad5ab2d8646b5a46571e1253d5, type: 3}
+  - {fileID: 21300000, guid: df5436bdccda48946baf78e8da25489e, type: 3}
+  - {fileID: 21300000, guid: 7071e00edf534654e93384dc918a810e, type: 3}
+  - {fileID: 21300000, guid: 81bd951e5ebe81c4f8afb53b4ba2b8c6, type: 3}
+  - {fileID: 21300000, guid: 4600278ead69afe428a68dc80ef9c736, type: 3}
+  - {fileID: 21300000, guid: 5af2d91f98bfc464884b0688123cc111, type: 3}
+  - {fileID: 21300000, guid: f2b14d1fd3f05a24fbf8e928c56b8430, type: 3}
+  - {fileID: 21300000, guid: b575024f253e49a48a2a4cfd96e62b1d, type: 3}
+  - {fileID: 21300000, guid: c283c95fa821f89438221f28bc54c857, type: 3}
+  - {fileID: 21300000, guid: 525aab7f8edabbb44a34fcaf0c5c8bc1, type: 3}
+  - {fileID: 21300000, guid: 19bff08ff679f154197160b1243a1046, type: 3}
+  - {fileID: 21300000, guid: c626249f7197fc1418d5497cc19ae732, type: 3}
+  - {fileID: 21300000, guid: 9b4749af68f20dc4aa8583f336d09c93, type: 3}
+  - {fileID: 21300000, guid: 326e84cf4276e544bb56f6e690dc2168, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - noun_click_1793864
+  - Image3Mini
+  - "mam\xE3o maduro"
+  - triangulo
+  - Image2
+  - limao maduro
+  - "Repolho Besti\xE1rio"
+  - tomate maduro
+  - repolho broto
+  - ICONE
+  - Planta
+  - Coin
+  - "Local de imagem besti\xE1rio"
+  - 3
+  - Pa
+  - Image5
+  - "Cenoura Besti\xE1rio"
+  - tomate broto
+  - "Limao Besti\xE1rio"
+  - bananeira madura
+  - Image1Mini
+  - mandioca madura
+  - batata doce madura
+  - Image3
+  - noun_Key_2187607
+  - Image4
+  - "Banana Besti\xE1rio"
+  - "Mamao Besti\xE1rio"
+  - Image4Mini
+  - Image5Mini
+  - "BatataDoce Besti\xE1rio"
+  - mandioca broto
+  - asdasdasd
+  - alface broto
+  - terra com semente
+  - REPOLHO
+  - noun_rotation_694512
+  - lavanda icone
+  - Image6Mini
+  - BATATA DOCE
+  - alface madura
+  - ALFACE
+  - cenoura madura
+  - Image6
+  - batata doce broto
+  - Image2Mini
+  - "Mandioca Besti\xE1rio"
+  - TERRA
+  - cenoura broto
+  - bananeira broto
+  - repolho maduro
+  - GOTEJAMENTO ICONE
+  - "Alface Besti\xE1rio"
+  - LOCK
+  - 1
+  - LAVANDA
+  - limao broto
+  - Image1
+  - icone 2
+  - "Besti\xE1rio"
+  - "icone rota\xE7\xE3o"
+  - mamao broto
+  - 2
+  - "lim\xE3o broto"
+  - "Tomate Besti\xE1rio"
+  m_Tag: Plantas
+  m_IsVariant: 0

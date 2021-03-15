@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeb7b5329833fb84586e870d2b11adbe, type: 3}
+  m_Name: Cenoura
+  m_EditorClassIdentifier: 
+  nomeDaPlanta: 4
+  tipoDaPlanta: 1
+  quantidadePossuida: 0
+  tempoParaCrescer: 26
+  ponto: 25
+  preco: 18
+  vidaConsumida: 3
+  descricao: "Originalmente presente em solo europeu e depois espalhada pelo mundo,
+    \xE9 uma raiz rica em fibras, fosforo, pot\xE1ssio e s\xF3dio. "
+  bestiarioDes: "Pode ser usada em pratos salgados e doces, podendo ser cozida, assada
+    e refogada. Tamb\xE9m utilizada crua em saladas. \rAjuda no controle do colesterol.\r\nPode
+    ser utilizada para higiene bucal quando crua. Ajuda a raspar a placa bacteriana
+    e retira res\xEDduos de alimentos.\r"
+  cientifico: Daucus carota
+  sprite: {fileID: 21300000, guid: f72aed3d5695e4f43bb9e3a96d0ecc6d, type: 3}
+  plantarSprite: {fileID: 21300000, guid: 8ca771e9ccc46a54284aebef18de4213, type: 3}
+  mudaSprite: {fileID: 21300000, guid: 577d7accf4bb33747bbaa1b0505f75c3, type: 3}
+  crescidaSprite: {fileID: 21300000, guid: 3529f7cbc24a5354099b19018c7aaa54, type: 3}
+  lockSprite: {fileID: 21300000, guid: 7071e00edf534654e93384dc918a810e, type: 3}
+  bestiarioSprite: {fileID: 21300000, guid: 055f54effe0bd4142b55bf2fb4b9748d, type: 3}
+  bestiarioLockSprite: {fileID: 21300000, guid: eeadf95b7b6b50b45a16483ceb0fbe83,
+    type: 3}
+  liberada: 0

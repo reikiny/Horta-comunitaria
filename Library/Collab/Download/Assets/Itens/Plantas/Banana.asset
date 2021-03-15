@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeb7b5329833fb84586e870d2b11adbe, type: 3}
+  m_Name: Banana
+  m_EditorClassIdentifier: 
+  nomeDaPlanta: 6
+  tipoDaPlanta: 2
+  quantidadePossuida: 0
+  tempoParaCrescer: 56
+  ponto: 64
+  preco: 25
+  vidaConsumida: 5
+  descricao: "Fruta originaria do Sudeste da \xC1sia, possui diversas variedades
+    e hoje \xE9 cultivada na maioria dos pa\xEDses tropicais. "
+  bestiarioDes: "Pode ser transformada em farinha, servindo como suplemento alimentar.
+    A casca da banana, bem higienizada, tamb\xE9m pode ser usada em bolos, geleias,
+    p\xE3es e vitaminas."
+  cientifico: Musa acuminata
+  sprite: {fileID: 21300000, guid: a240e37029c59dc49928e658834efdc3, type: 3}
+  plantarSprite: {fileID: 21300000, guid: 8ca771e9ccc46a54284aebef18de4213, type: 3}
+  mudaSprite: {fileID: 21300000, guid: 23e1030da73378647b78edaafbb063ac, type: 3}
+  crescidaSprite: {fileID: 21300000, guid: 2a59dd7502201ff458dcf04573db164d, type: 3}
+  lockSprite: {fileID: 21300000, guid: 7071e00edf534654e93384dc918a810e, type: 3}
+  bestiarioSprite: {fileID: 21300000, guid: 568684b4412cfcc4b8a0a538f305f907, type: 3}
+  bestiarioLockSprite: {fileID: 21300000, guid: eeadf95b7b6b50b45a16483ceb0fbe83,
+    type: 3}
+  liberada: 0

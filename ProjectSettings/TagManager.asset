@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Soil
+  - Shovel
+  - Seed
+  - Right
+  - Left
+  - Ground
+  - Farms
+  - PodePlantar
+  - Mais
+  - Menos
+  - Plantar
+  - Arar
+  - Adubar
+  - Regar
+  - Flor
+  - Borboleta
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Tools
+  - Farms
+  - Ground
+  - Soil
+  - Muda
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Farms
+    uniqueID: 616686357
+    locked: 0
+  - name: FrontUI
+    uniqueID: 2141703489
+    locked: 0
+  - name: Particula
+    uniqueID: 179379477
+    locked: 0

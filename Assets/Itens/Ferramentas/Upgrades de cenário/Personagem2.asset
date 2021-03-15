@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 534935ef63646374a91c34eece659ccf, type: 3}
+  m_Name: Personagem2
+  m_EditorClassIdentifier: 
+  tipoCenarioItem: 1
+  preco: 2000
+  descricao: 'O voluntario Chico ajuda na horta entrando em contato com fornecedores
+    de sementes e potenciais compradores. '
+  melhoria: Aumenta a velocidade da Sofia em 6.5%
+  spriteLoja: {fileID: 21300000, guid: d1ea081403ef780458ae366543430b7e, type: 3}
+  Usado: 1
+  paraSave: 1

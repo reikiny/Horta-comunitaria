@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeb7b5329833fb84586e870d2b11adbe, type: 3}
+  m_Name: Alface
+  m_EditorClassIdentifier: 
+  nomeDaPlanta: 0
+  tipoDaPlanta: 0
+  quantidadePossuida: 20
+  tempoParaCrescer: 27.64125
+  ponto: 21
+  preco: 10
+  vidaConsumida: 1
+  descricao: "Originaria do leste do mediterr\xE2neo, hoje \xE9 um vegetal mundialmente
+    cultivado.Rico em fosforo, ferro, pot\xE1ssio e em vitaminas."
+  bestiarioDes: "A folha de alface, al\xE9m das fibras, cont\xE9m quantidades razo\xE1veis
+    de vitaminas e minerais"
+  cientifico: Lactuca sativa
+  sprite: {fileID: 21300000, guid: 2c10c3dc71512cf4981fa20fa13baf1d, type: 3}
+  plantarSprite: {fileID: 21300000, guid: 8ca771e9ccc46a54284aebef18de4213, type: 3}
+  mudaSprite: {fileID: 21300000, guid: ad7d33d98011ed941b4356345872063c, type: 3}
+  crescidaSprite: {fileID: 21300000, guid: d851383b17ca70d42811ee1d6e94aa62, type: 3}
+  lockSprite: {fileID: 21300000, guid: 7071e00edf534654e93384dc918a810e, type: 3}
+  bestiarioSprite: {fileID: 21300000, guid: f8abfbfe39b5c944ab0937947626cba8, type: 3}
+  bestiarioLockSprite: {fileID: 21300000, guid: eeadf95b7b6b50b45a16483ceb0fbe83,
+    type: 3}
+  liberada: 1
